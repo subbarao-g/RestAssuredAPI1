@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="RestAssuredTests.TC_FindPetById">
+      <class name="RestAssuredTests.TC_TestCases">
         <methods>
           <include name="test_getPetById"/>
         </methods>
-      </class> <!-- RestAssuredTests.TC_FindPetById -->
+      </class> <!-- RestAssuredTests.TC_TestCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
